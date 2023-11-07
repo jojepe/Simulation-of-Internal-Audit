@@ -1,6 +1,6 @@
 # Simulation-of-Internal-Audit
 
-This is an Audit made in a activity of the Google Cybersecurity Course
+This is an audit made in an activity of the Google Cybersecurity Course
 
 In this activity, I conducted an internal security audit, which now I am including in my cybersecurity portfolio.
 
